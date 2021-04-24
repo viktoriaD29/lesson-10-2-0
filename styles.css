@@ -6,5 +6,5 @@
 .block {
   height: 100px;
   width: 100px;
-  flex-shrink: 0;
+  flex-shrink: 1;
 }
